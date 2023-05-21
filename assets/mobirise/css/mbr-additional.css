@@ -19,11 +19,11 @@ body {
 }
 .display-4 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 1.2rem;
+  font-size: 1rem;
   line-height: 1.5;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 1.5rem;
+  font-size: 1.25rem;
 }
 .display-5 {
   font-family: 'Rubik Mono One', sans-serif;
@@ -35,11 +35,11 @@ body {
 }
 .display-7 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 2.5rem;
+  font-size: 1.4rem;
   line-height: 1.5;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 3.125rem;
+  font-size: 1.75rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -63,9 +63,9 @@ body {
     line-height: calc( 1.3 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 0.96rem;
-    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.8rem;
+    font-size: calc( 1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
     font-size: 1.04rem;
@@ -73,9 +73,9 @@ body {
     line-height: calc( 1.4 * (1.105rem + (1.3 - 1.105) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-7 {
-    font-size: 2rem;
-    font-size: calc( 1.525rem + (2.5 - 1.525) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.525rem + (2.5 - 1.525) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.12rem;
+    font-size: calc( 1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -591,12 +591,12 @@ a:hover {
 }
 .form-control {
   font-family: 'Montserrat', sans-serif;
-  font-size: 1.2rem;
+  font-size: 1rem;
   line-height: 1.5;
   font-weight: 400;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.5rem;
+  font-size: 1.25rem;
 }
 .form-control:hover,
 .form-control:focus {
@@ -605,12 +605,12 @@ a:hover {
 }
 .form-control:-webkit-input-placeholder {
   font-family: 'Montserrat', sans-serif;
-  font-size: 1.2rem;
+  font-size: 1rem;
   line-height: 1.5;
   font-weight: 400;
 }
 .form-control:-webkit-input-placeholder > .mbr-iconfont {
-  font-size: 1.5rem;
+  font-size: 1.25rem;
 }
 blockquote {
   border-color: #eaeaea;
@@ -1172,7 +1172,7 @@ a {
 }
 .cid-sN25LmKt2Y {
   padding-top: 3rem;
-  padding-bottom: 0rem;
+  padding-bottom: 1rem;
   background-color: #eaeaea;
 }
 .cid-sN25LmKt2Y .content {
@@ -1236,7 +1236,7 @@ a {
   left: -50px;
 }
 .cid-teZuuvPvGE {
-  padding-top: 0rem;
+  padding-top: 1rem;
   padding-bottom: 1rem;
   background-color: #eaeaea;
 }
@@ -1281,6 +1281,32 @@ a {
 }
 .cid-tf0EQesvoA .mbr-section-title {
   color: #54595f;
+}
+.cid-tEwigG1VUM {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: #ffffff;
+}
+.cid-tEwigG1VUM ul {
+  list-style: none;
+  margin: 0;
+  padding-left: 2.5rem;
+}
+.cid-tEwigG1VUM li {
+  position: relative;
+  margin-bottom: 1rem;
+}
+.cid-tEwigG1VUM ul li::before {
+  position: absolute;
+  left: -1.6rem;
+  content: "\2022";
+  color: #eaeaea;
+  font-weight: bold;
+  font-size: 2rem;
+  width: 1.6rem;
+}
+.cid-tEwigG1VUM .list {
+  text-align: left;
 }
 .cid-teZx3wgx2L {
   padding-top: 1rem;
@@ -1700,7 +1726,7 @@ a {
 .cid-tf40LUGuOi {
   padding-top: 60px;
   padding-bottom: 0px;
-  background-color: #eaeaea;
+  background-color: #4b5b5b;
 }
 .cid-tf40LUGuOi .underline .line {
   width: 2rem;
@@ -2030,7 +2056,7 @@ a {
 .cid-tAE2AkqoW0 {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #dcc8bd;
 }
 .cid-tAE2AkqoW0 h4 {
   font-weight: 600;
