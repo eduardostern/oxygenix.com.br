@@ -127,7 +127,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "uniqCompNum": 33,
+    "uniqCompNum": 52,
     "versionPublish": "5.4.1",
     "screenshot": "screenshot.png"
   },
@@ -135,7 +135,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Oxygenix",
+        "title": "Oxygenix | Hiperbárica em Alphaville | Oxigenoterapia | Cirurgia Plástica | Pós-operatório | Tratamento de Feridas | Recover Muscular de Atletas | Lesões Actínicas | Pé Diabético",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -2062,7 +2062,7 @@
     "page1.html": {
       "settings": {
         "title": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
