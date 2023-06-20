@@ -1258,7 +1258,7 @@ a {
 .cid-teZuuvPvGE .mbr-text {
   color: #6b6b6b;
   margin: 10px 0;
-  text-align: center;
+  text-align: left;
 }
 .cid-tf0EQesvoA {
   padding-top: 30px;
@@ -2052,6 +2052,9 @@ a {
   .cid-tAE0n2tnxc .text-column {
     text-align: center !important;
   }
+}
+.cid-tAE0n2tnxc undefined {
+  text-align: center;
 }
 .cid-tAE2AkqoW0 {
   padding-top: 60px;
