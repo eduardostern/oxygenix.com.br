@@ -2267,9 +2267,15 @@ a {
   color: #4b5b5b;
 }
 .cid-tf45a5UbaW {
-  padding-top: 75px;
-  padding-bottom: 120px;
+  padding-top: 45px;
+  padding-bottom: 45px;
   background-color: #4b5b5b;
+}
+.cid-tKXCJmRGAM {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #dcc8bd;
+  overflow: hidden;
 }
 .cid-sN24DjvABH {
   z-index: 1000;
@@ -2893,4 +2899,10 @@ a {
   .cid-tAE0n2tnxc .text-column {
     text-align: center !important;
   }
+}
+.cid-tKXCJmRGAM {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #dcc8bd;
+  overflow: hidden;
 }
